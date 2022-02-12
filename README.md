@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baconenggsandcheese
-- 👀 I’m interested in Building Front End Solutions with Js.
-- 🌱 I’m currently learning NuxtJS
+- 👀 I’m interested in Full Stack Applications.
+- 🌱 I’m currently learning ReactJS after learning VueJS a bit.
 - 💞️ I’m looking to collaborate on React/Vue JS
 - 📫 How to reach me: My site https://xyz.xyz
 <!---
