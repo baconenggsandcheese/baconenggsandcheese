@@ -14,11 +14,11 @@
 ---
 ### Statistics
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconenggsandcheese&layout=compact&langs_count=8)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baconenggsandcheese&theme=holi-theme)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baconenggsandcheese&count_private=true&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconenggsandcheese&layout=compact&theme=github_dark&langs_count=8)
 
 ![Github Activity](https://activity-graph.herokuapp.com/graph?username=baconenggsandcheese&theme=github&custom_title=Activity)
 
