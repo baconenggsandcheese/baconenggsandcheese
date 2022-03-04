@@ -18,7 +18,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baconenggsandcheese&count_private=true&show_icons=true&theme=github_dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baconenggsandcheese&layout=compact&theme=github_dark&langs_count=8)
+
 ![Github Activity](https://activity-graph.herokuapp.com/graph?username=baconenggsandcheese&theme=github&custom_title=Activity)
+
 <!---
 baconenggsandcheese/baconenggsandcheese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
