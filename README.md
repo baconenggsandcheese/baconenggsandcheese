@@ -1,8 +1,7 @@
  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @baconenggsandcheese 
 - 👀 I’m interested in developing Full Stack Applications.
-- 🌱 I’m currently learning ReactJS after learning VueJS a bit.
-- 💞️ I’m looking to collaborate on React/Vue JS projects
--  My site is **Coming Soon**
+- 🌱 I’m currently learning ReactJS & VueJS.
+- 💞️ My site is **Coming Soon**
 #### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/anindadeb/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
