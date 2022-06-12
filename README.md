@@ -1,4 +1,4 @@
- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @baconenggsandcheese 
+ ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi, I’m @baconenggsandcheese 
 - 👀 I’m interested in developing Full Stack Applications.
 - 🌱 I’m currently learning ReactJS & VueJS.
 - 💞️ My site is **Coming Soon**
